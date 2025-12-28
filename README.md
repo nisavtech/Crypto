@@ -1,2 +1,1 @@
-# CryptoUSDTTRC20-1
-CryptoUSDTTRC20-1 - 28DEC2025
+# Crypto
